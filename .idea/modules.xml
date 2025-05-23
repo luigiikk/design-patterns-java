@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/atividade3/Command.iml" filepath="$PROJECT_DIR$/atividade3/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/atividade4/atividade4.iml" filepath="$PROJECT_DIR$/atividade4/atividade4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade5/atividade5.iml" filepath="$PROJECT_DIR$/atividade5/atividade5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/atividades.iml" filepath="$PROJECT_DIR$/.idea/atividades.iml" />
       <module fileurl="file://$PROJECT_DIR$/atividade1/facade.iml" filepath="$PROJECT_DIR$/atividade1/facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/atividade2/flyweight.iml" filepath="$PROJECT_DIR$/atividade2/flyweight.iml" />
